@@ -1,0 +1,9 @@
+.btn{
+    background-color: blue;
+    width: 25 px;
+    margin: 5px;
+    align-self: flex-end;
+}
+.btn1{
+    font-size: larger;
+}
